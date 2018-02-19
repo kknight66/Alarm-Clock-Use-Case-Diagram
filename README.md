@@ -8,4 +8,6 @@
 It is possible to set one or two alarms. When an alarm fires, it will sound some noise. The user can turn it off, or choose to ’snooze’. If the user does not respond at all, the alarm will turn off itself after 2 minutes. ’Snoozing’ means to turn off the sound, but the alarm will fire again after some minutes of delay. This ’snoozing time’ is pre-adjustable.
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
+![image](http://github.com/KKnight66/Alarm-Clock-Use-Case-Diagram/raw/master/images/屏幕快照 2018-02-18 下午9.18.33.png)
+
 
