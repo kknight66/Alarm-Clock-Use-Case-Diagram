@@ -1,6 +1,6 @@
 # Yujia Wang
 ---
-# Alarm-Clock-Use-Case-Diagram
+# Alarm-Clock-Project
 
 - Description
 
