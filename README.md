@@ -10,4 +10,5 @@ Identify the top-level functional requirement for the clock, and model it with a
 
 ![image](https://github.com/kknight66/Alarm-Clock-Use-Case-Diagram/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-02-18%20%E4%B8%8B%E5%8D%889.18.33.png)
 
+![image](https://github.com/kknight66/Alarm-Clock-Use-Case-Diagram/blob/master/alarm%20clock.png)
 
